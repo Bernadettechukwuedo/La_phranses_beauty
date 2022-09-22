@@ -13,7 +13,6 @@
 nav{
     display: flex;
     align-items: center;
-    border: 2px solid red;
     padding:20px;
     justify-content: space-between;
 }
@@ -35,7 +34,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid yellow;
+    
 }
 .side{
     width:200px;
@@ -215,7 +214,6 @@ h2{
 .container{
     width: fit-content;
     flex-direction: column;
-    border: 2px solid green;
     margin: 0 auto;
     overflow: hidden;
     
